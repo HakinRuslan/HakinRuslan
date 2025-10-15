@@ -12,7 +12,11 @@
 <div align-itmes="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" />
 </div>
+
+## Devops:
+<div align-itmes="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" />
+</div>
 <hr />
 
-![](https://github-profile-trophy.vercel.app/?username=inlinera&theme=onestar)
 </div>
