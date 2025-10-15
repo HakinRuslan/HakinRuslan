@@ -10,7 +10,12 @@
 
 ## Frontend:
 <div align-itmes="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" height="40" />        
+<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" />
+<img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="40" />
+<img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" />
+<img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mobx/mobx-original.svg" height="40" />
 </div>
 
 ## Devops:
