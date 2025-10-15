@@ -3,8 +3,8 @@
 
 ## Backend:
 <div align-itmes="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"height="40 /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" /
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="40" />
 <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="40" />
 <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" />
 <img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="40" />
