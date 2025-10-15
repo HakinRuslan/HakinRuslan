@@ -1,5 +1,5 @@
 ## Hi, I'm Withoutopps, Fullstack Developer from Russia 🇷🇺
-<img src="[https://i.pinimg.com/originals/ec/e1/e5/ece1e54d7dea5b1ba08aad8979aa2b15.gif](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)" width="100%"/>
+<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%"/>
 
 ## Backend:
 <div align-itmes="center">
